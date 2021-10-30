@@ -5,7 +5,15 @@ h2{
     font-size: xx-large;
 
 }
+.img {
+    size: 250px;
+}
 
+h1{
+    font-style: oblique;
+    color: honeydew;
+    background-color: red;
+}
 .body{
     background-color: green;
 
